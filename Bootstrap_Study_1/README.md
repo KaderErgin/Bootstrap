@@ -21,10 +21,11 @@ This is the version I made a few updates to.
 * Consists of Home, Products, About sections.
 * Card structure is used on the products page.
 * Product images, necessary information and prices are available.
-  <br>
-[TR] <br>
-#### Projenin Ozellikleri
+<br>
 
+[TR] <br>
+
+#### Projenin Ozellikleri
 * (Tech Store) Web sayfası teknolojik urunler (bilgisayar,tablet,klavye&mouse,yazıcı,telefon,tv,drone) yer almaktadır
 * Home sayfasında bu urun isimleri listelenmistir.
 * Daha önce CSS kursunda olusturduğum (CSS deposundaki birinici calisma)  teknoloji mağazasi web sitesinin Bootstrap'a uyarlayıp
