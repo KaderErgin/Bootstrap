@@ -17,3 +17,9 @@ https://github.com/KaderErgin/Bootstrap/assets/86712096/eb563603-e63a-4126-b451-
 
 [TR] <br>
 #### Projenin açıklaması
+<hr>
+
+#### Technologies
+1. HTML
+1. CSS
+1. Bootstrap
