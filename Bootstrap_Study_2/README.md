@@ -9,3 +9,8 @@
 > Mobile
 
  <img src="assets/Instagram_clone_ss_2.png"  width="440ox" height="600px"> 
+<hr>
+#### Technologies
+1. HTML
+1. CSS
+1. Bootstrap
