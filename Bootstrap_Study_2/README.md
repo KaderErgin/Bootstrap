@@ -5,3 +5,7 @@
 > Instagram Clone Appearance
 
  <img src="assets/Instagram_clone_ss_1.png"  width="750ox" height="600px"> 
+
+> Mobile
+
+ <img src="assets/Instagram_clone_ss_2.png"  width="750ox" height="600px"> 
