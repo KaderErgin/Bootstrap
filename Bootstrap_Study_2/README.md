@@ -8,4 +8,4 @@
 
 > Mobile
 
- <img src="assets/Instagram_clone_ss_2.png"  width="750ox" height="600px"> 
+ <img src="assets/Instagram_clone_ss_2.png"  width="550ox" height="600px"> 
