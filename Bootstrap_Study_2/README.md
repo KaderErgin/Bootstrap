@@ -8,7 +8,7 @@
 
 > Mobile
 
-<center> <img src="assets/Instagram_clone_ss_2.png"  width="440ox" height="600px"> </center>
+<img src="assets/Instagram_clone_ss_2.png"  width="440ox" height="600px"> 
 <hr>
 
 #### Technologies
