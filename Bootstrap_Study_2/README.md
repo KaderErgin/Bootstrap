@@ -3,3 +3,5 @@
 ### For Instagram Clone Preview [Click this link](https://kaderergin.github.io/Bootstrap/Bootstrap_Study_2/) 
 
 > Instagram Clone Appearance
+
+ <img src="assets/I"  width="750ox" height="600px"> 
