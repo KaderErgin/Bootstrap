@@ -8,7 +8,7 @@
 </p>
 > Mobile
 <p align="center">
-<img src="assets/Instagram_clone_ss_2.png"  width="440ox" height="600px">
+<img src="assets/Instagram_clone_ss_2.png"  width="540ox" height="600px">
 </p>
 <hr>
 
