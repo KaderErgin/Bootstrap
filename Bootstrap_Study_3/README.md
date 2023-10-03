@@ -9,5 +9,12 @@ https://github.com/KaderErgin/Bootstrap/assets/86712096/3d307e6e-9c0a-464b-87f7-
 
 https://github.com/KaderErgin/Bootstrap/assets/86712096/25bb9784-fb4a-40bc-82c9-6de3dd109b23
 
+<hr>
+
+#### Technologies
+1. HTML
+1. CSS
+1. Bootstrap
+
 
 
