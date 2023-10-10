@@ -22,7 +22,6 @@ This is the version I made a few updates to.
 * Card structure is used on the products page.
 * Product images, necessary information and prices are available.
 <br>
-
 [TR] <br>
 
 #### Projenin Ozellikleri
